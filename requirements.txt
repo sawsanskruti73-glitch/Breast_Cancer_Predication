@@ -1,7 +1,9 @@
-gradio
+streamlit
 tensorflow
 numpy
 scikit-learn
 pandas
 h5py
 protobuf
+joblib
+keras
